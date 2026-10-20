@@ -1,0 +1,8 @@
+<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.000000" height="22.000000" fill="none" customFrame="#000000">
+	<g id="Online Dots">
+		<path id="Oval" d="M11 22C17.0751 22 22 17.0751 22 11C22 4.92487 17.0751 0 11 0C4.92487 0 0 4.92487 0 11C0 17.0751 4.92487 22 11 22Z" fill="rgb(255,255,255)" fill-rule="evenodd" />
+		<path id="Oval" d="M22 11C22 4.92487 17.0751 0 11 0C4.92487 0 0 4.92487 0 11C0 17.0751 4.92487 22 11 22C17.0751 22 22 17.0751 22 11Z" fill-rule="evenodd" stroke="rgb(151,151,151)" stroke-opacity="0" stroke-width="0.000000" />
+		<path id="Oval" d="M11 19C15.4183 19 19 15.4183 19 11C19 6.58172 15.4183 3 11 3C6.58172 3 3 6.58172 3 11C3 15.4183 6.58172 19 11 19Z" fill="rgb(82,193,156)" fill-rule="evenodd" />
+		<path id="Oval" d="M19 11C19 6.58172 15.4183 3 11 3C6.58172 3 3 6.58172 3 11C3 15.4183 6.58172 19 11 19C15.4183 19 19 15.4183 19 11Z" fill-rule="evenodd" stroke="rgb(151,151,151)" stroke-opacity="0" stroke-width="0.000000" />
+	</g>
+</svg>

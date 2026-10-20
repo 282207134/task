@@ -1,0 +1,12 @@
+<svg viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.000000" height="18.000000" fill="none" customFrame="#000000">
+	<g id="loader">
+		<path id="Shape" d="M9 1L9 4.2" fill-rule="evenodd" stroke="rgb(68,4,172)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.000000" />
+		<path id="Shape" d="M9 13.8L9 17" fill-rule="evenodd" stroke="rgb(68,4,172)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.000000" />
+		<path id="Shape" d="M3.34399 3.34399L5.60799 5.60799" fill-rule="evenodd" stroke="rgb(68,4,172)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.000000" />
+		<path id="Shape" d="M12.392 12.3921L14.656 14.6561" fill-rule="evenodd" stroke="rgb(68,4,172)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.000000" />
+		<path id="Shape" d="M1 9L4.2 9" fill-rule="evenodd" stroke="rgb(68,4,172)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.000000" />
+		<path id="Shape" d="M13.8 9L17 9" fill-rule="evenodd" stroke="rgb(68,4,172)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.000000" />
+		<path id="Shape" d="M3.34399 14.6561L5.60799 12.3921" fill-rule="evenodd" stroke="rgb(68,4,172)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.000000" />
+		<path id="Shape" d="M12.392 5.60799L14.656 3.34399" fill-rule="evenodd" stroke="rgb(68,4,172)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.000000" />
+	</g>
+</svg>
